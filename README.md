@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ReaganNet
 - 👀 I’m interested in programming and building software and web-based systems
-- 🌱 I’m currently learning JavaScript libraries and frameworks.
 - 💞️ I’m looking to collaborate on any active project in the codespace within the github communities
 - 📫 How to reach me:
       -Call Or WhatsApp Or Signal
