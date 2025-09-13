@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming and building software and web-based systems
 - 💞️ I’m looking to collaborate on any active project in the codespace within the github communities
 - 📫 How to reach me:
-      -Call Or WhatsApp Or Signal
+      -Call Or WhatsApp 
           +254 114 892470
           +254 769 107231
   mailto: reaganmsangia@gmail.com
